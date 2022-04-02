@@ -1,0 +1,69 @@
+body
+{
+background-size:cover ;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+.btn_play{
+font-size: 27px;
+}
+
+.btn-default{
+    font-size: 23px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px grey;
+    margin-bottom: 20px;
+}
+
+.copyright_footer{
+
+line-height:2.5;
+background: darkgrey;
+color: white;
+width: 100%;  
+font-size: 25px;
+}
+
+.btn-danger{
+    font-size:22px;
+}
+
+li{
+    text-align: left;
+}
+
+ol{
+    font-size: 20px;
+}
+
+.modal-header{
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+}
+
+video{
+    
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+
